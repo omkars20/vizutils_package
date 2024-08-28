@@ -15,6 +15,4 @@ You can install VizUtils using `pip`:
 ```bash
 pip install vizutils
 
-## usage
-Below are e
 
