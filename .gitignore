@@ -2,3 +2,6 @@
 build/
 dist/
 vizutils.egg-info/
+
+setup.py
+
